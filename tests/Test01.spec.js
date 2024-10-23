@@ -8,4 +8,5 @@ test.skip('has title', async ({ page }) => {
     await enterTextAndHitEnter("xpath=//textarea[@name='q']", "Playwright", "Search Box");
     await click("xpath=//h3[contains(text(),'Playwright: Fast and reliable')]","Playwright Website");
     await takeFullScreenshot('Screenshots/Home.png');
+    
 });
