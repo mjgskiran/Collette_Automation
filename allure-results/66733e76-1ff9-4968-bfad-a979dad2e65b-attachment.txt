@@ -1,0 +1,2 @@
+Total Tiles in the Itinerary are: 0
+Total Images inside Tiles are: 0

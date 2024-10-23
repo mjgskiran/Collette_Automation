@@ -1,0 +1,27 @@
+<testsuites id="" name="" tests="2" failures="0" skipped="1" errors="0" time="24.212053">
+<testsuite name="1.spec.js" timestamp="2024-10-21T14:29:33.603Z" hostname="chromium" tests="1" failures="0" skipped="0" time="21.088" errors="0">
+<testcase name="TVP Itinerary Regression" classname="1.spec.js" time="21.088">
+<system-out>
+<![CDATA[Total Tiles in the Itinerary are: 4
+Total Images inside Tiles are: 4
+
+[[ATTACHMENT|test-results\1-TVP-Itinerary-Regression-chromium\test-finished-1.png]]
+
+[[ATTACHMENT|test-results\1-TVP-Itinerary-Regression-chromium\video.webm]]
+
+[[ATTACHMENT|test-results\1-TVP-Itinerary-Regression-chromium\trace.zip]]
+]]>
+</system-out>
+</testcase>
+</testsuite>
+<testsuite name="Test01.spec.js" timestamp="2024-10-21T14:29:33.603Z" hostname="chromium" tests="1" failures="0" skipped="1" time="0" errors="0">
+<testcase name="has title" classname="Test01.spec.js" time="0">
+<properties>
+<property name="skip" value="">
+</property>
+</properties>
+<skipped>
+</skipped>
+</testcase>
+</testsuite>
+</testsuites>

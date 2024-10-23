@@ -1,0 +1,22 @@
+{
+  "name": "collette_automation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.48.0",
+    "@types/node": "^20.11.21",
+    "allure-js-commons": "^3.0.4",
+    "allure-playwright": "^2.15.1"
+  },
+  "dependencies": {
+    "archiver": "^7.0.1",
+    "csv-parse": "^5.5.6",
+    "nodemailer": "^6.9.14",
+    "xlsx": "^0.18.5"
+  }
+}
